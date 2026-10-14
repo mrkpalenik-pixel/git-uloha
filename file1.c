@@ -1,1 +1,1 @@
-Povodny obsah file1
+Zmena vo vedlajsej vetve
